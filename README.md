@@ -6,7 +6,7 @@
 * [Luhns Summarization](luhn_sum.py)  <br />
 
 
-## Sample Results
+
 
 ###  **Document :**
 
